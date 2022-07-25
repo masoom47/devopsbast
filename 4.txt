@@ -1,4 +1,9 @@
-HI MY NAME IS SRINVAS 
-SDL;F
-AGE
-PH NUMBER
+Name: Srinvas
+Ph number: 99909999999
+address: kukatpally 23/7, hyderabad.
+age: 24
+Experinece: 3 years
+Hobbies:
+Strength: 
+Weekness:
+
